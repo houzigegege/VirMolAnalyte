@@ -65,12 +65,14 @@ The research database includes a basic database and specific category databases:
 - **MicroDB**: An in silico database of microbial-derived metabolites, encompassing 36,427 metabolites.
 - **DrugDB**: An in silico database focused on drug-related compounds and their metabolites, including 4,280 metabolites.
 
+The compressed file of the database can be obtained in [Releases](../../releases) page 
+
 ## Development Team
 
 This tool is developed by the team from the Kunming Institute of Botany, Chinese Academy of Sciences, dedicated to advancing metabolite identification research.
 
 ## Quick Start
-Please refer to the provided manual (Manual for VirMolAnalyze.pdf)
+Please refer to the [Manual for VirMolAnalyze.pdf](https://github.com/houzigegege/VirMolAnalyte/blob/main/Manual%20for%20VirMolAnalyze.pdf).
 
 ## Support
 
