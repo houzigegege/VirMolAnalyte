@@ -23,6 +23,9 @@ For the web version, please visit [https://www.virmolanalyte.top/](https://www.v
 
 
 ### Desktop Version
+The desktop version provides more comprehensive data processing and interaction analysis functions
+<img width="2233" height="1390" alt="image" src="https://github.com/user-attachments/assets/fa28b29e-baf3-41f2-accc-b903f6ceb192" />
+
 For the desktop installation version, please refer to the following instructions:
 
 #### System Requirements
